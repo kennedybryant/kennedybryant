@@ -1,6 +1,6 @@
 ### Hey, ya'll! I'm Kennedy ✨✨✨🦇🌙🦇✨✨✨
 
-- 💯 I’m currently working on increasing my GCA score 
+- 💯 I’m currently working on Underdog Devs as a frontend engineer
 - 🌱 I’m currently learning advanced React
 - 💎 I’m looking to polish my skills and find a company to grow with
 - 💬 Ask me about snakes or Batman, and I could go on forever
